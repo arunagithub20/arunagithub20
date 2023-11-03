@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)]
+![MasterHead](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)
 <h1 align="center">Hi 👋, I'm Aruna Priyadarshana</h1>
 <h3 align="center">Learn! Code! Debug! Repeat!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
